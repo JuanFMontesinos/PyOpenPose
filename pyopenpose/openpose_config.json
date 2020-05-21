@@ -1,0 +1,8 @@
+{
+  "MODELS_PATH": "/home/jfm/openpose/models",
+  "PYTHON_LIBRARY": "/home/jfm/openpose/build/python",
+  "DISPLAY": 1,
+  "DEFAULT_IMG": "/home/jfm/testopenpose",
+  "WRITE_JSON": 1
+}
+
